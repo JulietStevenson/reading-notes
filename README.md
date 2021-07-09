@@ -1,6 +1,6 @@
 # Reading Notes for Code Fellows
 
-This is my reading notes repo to track all of my reading notes
+These are my reading notes repo to track all of my reading notes
 
 ## About Me
 
@@ -8,17 +8,12 @@ My name is Juliet Stevenson and I am an Admissions Coordinator at Code Fellows. 
 
 ### Growth Mindset
 
-To me growth mindset is about allowing your mind to accept new information
+To me growth mindset is about being open minded and allowing new information to enter the brain. Growth mindset is the opportunity to explore various opportunities to better yoursefl and to allow for self growth.
 
 #### To Achieve a Growth Mindset, I will:
 
-- Allow new information to enter the brain 
-- Accept failure and learn from it
-- Celebrate the success of others
-- Be opened minded and explore various opportunities
+- **Accept** failure and learn from it
+- **Celebrate** the success of others
+- Learning is a **process**
 
-### This is a Heading 3
-#### This is a Heading 4
-##### This is a Heading 5
-###### This is a Heading 6
-
+A good article about [Growth Mindset, Mindfullness, and Selflove](https://medium.com/@teacher_finn/growth-mindset-mindfulness-and-self-love-4ef6a4d1210d) by Teacher Finn on Medium.
