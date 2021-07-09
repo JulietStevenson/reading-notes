@@ -20,4 +20,27 @@ To get started, you need to set up a personal repository, repo for short, to sto
 To learn more in depth about GitHub Pages, check out this [video](https://julietstevenson.github.io/reading-notes/) GitHub put together to understand the idea GitHub Pages. 
 
 
-## 
+## Markdown Syntax
+
+Bookmark the [GitHub Markdown Syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) page to quickly look up the correct Markdown syntax in a hurry! A very useful page in my opinion. 
+
+Here are a couple styles I have learned just from reading the Markdown Sintax Page:
+
+**bold**
+
+*italic*
+
+~~Mistake~~
+
+In the wise words of Winnie the Pooh
+> It's more fun to talk with someone who doesn't use long, difficult words but rather short, easy words like "What's for lunch?"
+
+Links to [keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
+
+And my personal favorite...
+
+Grocery List:
+- [x] Eggs 🥚
+- [x] Carrots 🥕
+- [ ] Apples 🍎
+- [ ] Bread 🍞
