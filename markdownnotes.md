@@ -15,7 +15,7 @@ I am excited to learn more about Markdown as my journey with Code Fellows contin
 
 GitHub Pages allows you to create entire websites to showcase all thee information you wish to put out there. If I wanted to create a portfolio website, GitHub Pages would allow me to do so. It's a simple alternative as you don't even need to know HTML!
 
-To get started, you need to set up a personal repository, repo for short, to store all the site files. For example, my personal repositry is [https://julietstevenson.github.io/reading-notes/](https://julietstevenson.github.io/reading-notes/) Files created within this repo will be set up to create a live website with multiple pages. I can have a separate "About Me", "Work", and "Contact" page on my GitHub Pages webiste. 
+To get started, you need to set up a personal repository, repo for short, to store all the site files. For example, my personal repository is [https://julietstevenson.github.io/reading-notes/](https://julietstevenson.github.io/reading-notes/) Files created within this repo will be set up to create a live website with multiple pages. I can have a separate "About Me", "Work", and "Contact" page on my GitHub Pages website. 
 
 To learn more in depth about GitHub Pages, check out this [video](https://julietstevenson.github.io/reading-notes/) GitHub put together to understand the idea GitHub Pages. 
 
