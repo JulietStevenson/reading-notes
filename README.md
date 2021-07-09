@@ -4,7 +4,7 @@ These are my reading notes repo to track all of my reading notes
 
 ## About Me
 
-My name is Juliet Stevenson and I am an Admissions Coordinator at Code Fellows. I am a hiking enthusiast, amature food photographer, and love a good tide-pooling session. 🌄 🌮 🐡 I just moved to Seattle from Boston back in November to follow my dream to become part of the UX Design industry. Previously, I went to school in Florida where I studied the population dynamics and bioacoustics of bottlenose dolphins 🐬. I realized that marine science was not something that I wanted to pursue. During covid, I took a crash course on UX design and found it very interesting. I had always wanted to live in Seattle for the mountains and ocean, as well it being a big tech hub. So I packed my bags and moved out here last November. I have been lovin it ever since. View my GitHub portfolio [here](https://github.com/JulietStevenson)
+My name is Juliet Stevenson and I am an Admissions Coordinator at Code Fellows. I am a hiking enthusiast, amature food photographer, and love a good tide-pooling session. I just moved to Seattle from Boston back in November to follow my dream to become part of the UX Design industry. Previously, I went to school in Florida where I studied the population dynamics and bioacoustics of bottlenose dolphins. I realized that marine science was not something that I wanted to pursue. During covid, I took a crash course on UX design and found it very interesting. I had always wanted to live in Seattle for the mountains and ocean, as well it being a big tech hub. So I packed my bags and moved out here last November. I have been lovin it ever since. View my GitHub portfolio [here](https://github.com/JulietStevenson)
 
 ### Growth Mindset
 
