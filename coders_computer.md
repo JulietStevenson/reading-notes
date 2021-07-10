@@ -33,6 +33,7 @@ Options: modify the behavior of a command (typically started with a dash (-))
 
 **Shell:** defines how the terminal will behave and look
 - Most common shell is **bash (Bourne Again Shell)**
+`touch` create new file
 
 `echo` displays messages 
 
