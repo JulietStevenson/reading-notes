@@ -15,5 +15,3 @@ Table of Contents:
 - [Markdown](markdown.md)
 - [The Coder's Computer](coders_computer.md)
 
-
-these are some changes
