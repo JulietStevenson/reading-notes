@@ -4,14 +4,12 @@
 
 While all text editors get the job done, there are some things to keep in mind when chosing an editor.
 
--
-
 **Text Editor:** software that you download to your computer, or can access online, that allows a user to write and build text such as a website
 
 **IDE (Integrated Development Environment):** compilation of different softwares together such as a text editor, file manager, complier, and debugger. 
 - Examples include: Microssoft Outlook
 
-## Why it's important to be thoughtful when chosing an editor 
+## What Should You Have in an Editor?
 
 - Personal choice
 - Make sure it can do what you want 
