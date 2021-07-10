@@ -12,5 +12,5 @@ View my GitHub portfolio [here](https://github.com/JulietStevenson)
 
 Table of Contents:
 - [Growth Mindset](growth_mindset.md)
-- [Markdown](markdownnotes.md)
+- [Markdown](markdown.md)
 - The Coder's Computer
