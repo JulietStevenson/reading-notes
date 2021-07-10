@@ -10,8 +10,9 @@ Previously, I studied the population dynamics and bioacoustics of bottlenose dol
 
 View my GitHub portfolio [here](https://github.com/JulietStevenson)
 
-Table of Contents:
+### Table of Contents:
 - [Growth Mindset](growth_mindset.md)
-- [Markdown](markdown.md)
 - [The Coder's Computer](coders_computer.md)
+- [Markdown](markdown.md)
+- [GitHub](github.md)
 
