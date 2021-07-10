@@ -94,4 +94,4 @@ file.png, file.gif, file.jpg - image
 
 **ls -a:** make a file or directory hidden
 
-
+[HOME](README.md)
