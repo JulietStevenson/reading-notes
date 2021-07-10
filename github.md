@@ -1,6 +1,6 @@
 # Git: A Comprehensive Guide
 
-### Version Control
+## Version Control
 
 **Version Control:** system that allows a user to revisit various versions of a file
 - Records changes made along the way
@@ -12,7 +12,7 @@
 - Centralized: Enables collaboration
 - Distributed: allows users to create mirrored repos, or backups 
 
-### Git
+## Git
 
 **Git:** A version control system that stores data in a file system made of snapshots
 - Keeps a history of changes one has made, or "snapshot," of a file
