@@ -24,7 +24,7 @@ Some third party options include:
 - Atom
 - Visual Studio Code
 
-## Terminal Commands "Cheat Sheet"
+# Terminal Commands "Cheat Sheet"
 
 **Command Line (Terminal):** text-based interface to the system that allows you to enter commands and recieve feedback
 
@@ -33,16 +33,17 @@ Options: modify the behavior of a command (typically started with a dash (-))
 
 **Shell:** defines how the terminal will behave and look
 - Most common shell is **bash (Bourne Again Shell)**
+
 `touch` create new file
+
+`pwd` (Present Working Directory): tells you what your current working directory is
+
+`ls` (List): lists the contents of current directory
+`- ls` (options)(location)
 
 `echo` displays messages 
 
-`pwd` (Present Working Directory):** tells you what your current working directory is
-
-`ls` (List):** lists the contents of current directory
-`- ls` (options)(location)
-
-`-l` (Line):** indicates a long listing
+`ls -l`: long listing
 - (-): normal file
 - (d): directory
 
@@ -65,7 +66,8 @@ Options: modify the behavior of a command (typically started with a dash (-))
 ### Moving Around
 
 `cd` [location]:** move around the system to another directory (change directory).
-`cd ..` move back one file
+`cd .`: current directory
+`cd ..` move back one file (parent directory)
 
 ### Tab Completion
 
