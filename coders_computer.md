@@ -34,7 +34,7 @@ Options: modify the behavior of a command (typically started with a dash (-))
 **Shell:** defines how the terminal will behave and look
 - Most common shell is **bash (Bourne Again Shell)**
 
-**echo:** displays messages 
+'echo' displays messages 
 
 **pwd (Present Working Directory):** tells you what your current working directory is
 
