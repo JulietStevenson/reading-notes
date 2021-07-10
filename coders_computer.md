@@ -64,6 +64,7 @@ Options: modify the behavior of a command (typically started with a dash (-))
 ### Moving Around
 
 `cd` [location]:** move around the system to another directory (change directory).
+`cd ..` move back one file
 
 ### Tab Completion
 
