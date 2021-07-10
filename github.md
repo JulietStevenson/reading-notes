@@ -28,6 +28,25 @@
 - Usually one project 
 - Repositories can live on GitHub, Computer, or both
 
+## Cloning
+
+`git clone` + repository's URL creates a copy of an existing Git repository from a particular server (like GitHub)
+
+`git clone https://github.com/test newname`: To clone a repo with a new name
+
+## Workflow
+
+Local Repository Structure
+1. Working Directory: actual files
+2. Index: area used for staging
+3. Head: Indicates to most recent commit or "change"
+
+## Saving Changes
+
+**Tracked Files:** may be modified, unmodified, or staged. Part of the most recent snapshot
+
+**Untracked:** do not currently reside in the staging area
+
 ## ACP Process
 
 **Add, Commit, Push:** the process to take code from an editor (like VS Code) on your computer and push it up to GitHub
@@ -36,11 +55,22 @@
 2. `git commit -m "your message"`
 3. `git push origin main`
 
-`git add .` adds any modifications you have made
+Command for all files (vs. only 1)
+`git add .`: adds any modifications you have made
+`git commit -a`: commits a snapshot of all modifications on tracked files
 
-## Cloning
+## Stashing Changes
 
-`git clone` + repository's URL creates a copy of an existing Git repository from a particular server (like GitHub)
+`git stash`: temporarily removes changes and hides them
+- when you are not ready to commit changes but don't want to lose them
 
+`git stash apply`: retrieves hidden changes
+
+## Remote Repositories
+
+**Remote Repositories:** versions of a project residing online or on a network
+
+`git remote`: view the short names of specified remote handles
+`git remote -v`: view all remote URLs 
 
 
