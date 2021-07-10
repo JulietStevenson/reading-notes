@@ -36,7 +36,7 @@ Options: modify the behavior of a command (typically started with a dash (-))
 
 **echo:** displays messages 
 
-**pwd (Print Working Directory):** tells you what your current working directory is
+**pwd (Present Working Directory):** tells you what your current working directory is
 
 **ls (List):** lists the contents of current directory
 - ls (options)(location)
