@@ -34,38 +34,38 @@ Options: modify the behavior of a command (typically started with a dash (-))
 **Shell:** defines how the terminal will behave and look
 - Most common shell is **bash (Bourne Again Shell)**
 
-'echo' displays messages 
+`echo` displays messages 
 
-**pwd (Present Working Directory):** tells you what your current working directory is
+`pwd` (Present Working Directory):** tells you what your current working directory is
 
-**ls (List):** lists the contents of current directory
-- ls (options)(location)
+`ls` (List):** lists the contents of current directory
+`- ls` (options)(location)
 
-**-l (Line):** indicates a long listing
+`-l` (Line):** indicates a long listing
 - (-): normal file
 - (d): directory
 
-**/etc:** tells ls to list directory's contents
+`/etc` tells ls to list directory's contents
 
-###### Paths
+### Paths
 
 **Paths:** The means to get to a file or directory. File systems are hierarchical structures.
 
 **root directory:** main structure at the time. Can have subdirectories. 
 
 2 Types of paths:
- - **absolute (/):** file or directory location in relation to the root
+ - **absolute `/`:** file or directory location in relation to the root
  - **relative:** file or directory location relative to where the user is in the system
 
-**~ (tilde):** shortcut for home directory
-**. (dot):** references current directory
-**.. (dotdot):** references the parent directory 
+`~` (tilde):** shortcut for home directory
+`.` (dot):** references current directory
+`..` (dotdot):** references the parent directory 
 
-###### Moving Around
+### Moving Around
 
-**cd [location]:** move around the system to another directory (change directory).
+`cd` [location]:** move around the system to another directory (change directory).
 
-###### Tab Completion
+### Tab Completion
 
 Tab key = auto compete action 
 
@@ -77,21 +77,21 @@ file.exe - executable file
 file.txt - plain text file
 file.png, file.gif, file.jpg - image
 
-**file [path]:** used to find out what type of file it is
+`file` [path]:** used to find out what type of file it is
 
-###### Linux is case sensitve!!!
+### Linux is case sensitve!!!
 
-###### Spaces in names
+### Spaces in names
 
 - Can have spaces in names
 - Need to distinguish them from commands
 -   Use Quotes ('')
 -   Use Escape in between (\)
 
-###### Hidden Files and Directories
+### Hidden Files and Directories
 
 - If file or directory name begins with a (.), then it is hidden
 
-**ls -a:** make a file or directory hidden
+`ls -a` make a file or directory hidden
 
 [HOME](README.md)
