@@ -49,3 +49,51 @@ Options: modify the behavior of a command (typically started with a dash (-))
 
 **/etc:** tells ls to list directory's contents
 
+###### Paths
+
+**Paths:** The means to get to a file or directory. File systems are hierarchical structures.
+
+**root directory:** main structure at the time. Can have subdirectories. 
+
+2 Types of paths:
+ - **absolute (/):** file or directory location in relation to the root
+ - **relative:** file or directory location relative to where the user is in the system
+
+**~ (tilde):** shortcut for home directory
+**. (dot):** references current directory
+**.. (dotdot):** references the parent directory 
+
+###### Moving Around
+
+**cd [location]:** move around the system to another directory (change directory).
+
+###### Tab Completion
+
+Tab key = auto compete action 
+
+## More about files
+
+**Extensions**
+
+file.exe - executable file
+file.txt - plain text file
+file.png, file.gif, file.jpg - image
+
+**file [path]:** used to find out what type of file it is
+
+###### Linux is case sensitve!!!
+
+###### Spaces in names
+
+- Can have spaces in names
+- Need to distinguish them from commands
+-   Use Quotes ('')
+-   Use Escape in between (\)
+
+###### Hidden Files and Directories
+
+- If file or directory name begins with a (.), then it is hidden
+
+**ls -a:** make a file or directory hidden
+
+
