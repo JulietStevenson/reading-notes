@@ -14,3 +14,6 @@ Table of Contents:
 - [Growth Mindset](growth_mindset.md)
 - [Markdown](markdown.md)
 - [The Coder's Computer](coders_computer.md)
+
+
+these are some changes
