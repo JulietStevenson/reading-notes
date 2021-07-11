@@ -81,7 +81,7 @@ file.exe - executable file
 file.txt - plain text file
 file.png, file.gif, file.jpg - image
 
-`file` [path]:** used to find out what type of file it is
+`file` [path]: used to find out what type of file it is
 
 ### Linux is case sensitve!!!
 
