@@ -111,7 +111,7 @@
 - ex: `<h1>`element means it contains the "top level heading on your page"
 - Benefits of Semantic markup:
     - influence a website's SEO
-    - helps screen readers
+    - helps screen readers pinpoint
     - finding blocks of code is easier
 
 [HOME](README.md)
