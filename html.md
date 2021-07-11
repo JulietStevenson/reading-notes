@@ -114,3 +114,5 @@
     - influence a website's SEO
     - helps screen readers
     - finding blocks of code is easier
+
+[HOME](README.md)
