@@ -39,6 +39,7 @@
 
 ### Anatomy of an HTML element
 
+
 > `<p>My cat is very grumpy</p>`
 
 **Opening Tag:** name of element (p)
@@ -87,7 +88,7 @@
 `src`: **source attribute.** The path to image file
 `alt`: **alternative attribute.** Specify descriptive text for users who cannot see the image
 
-
+ 
 ### Marking up text
 
 **Headings:** allow you to speciffy certain parts of the content are headings 
