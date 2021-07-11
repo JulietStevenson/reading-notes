@@ -108,7 +108,9 @@
 
 **Semantics:** referes to the meaning of a piece of code
 - HTML should be coded to represent the data that will be populated, not based on presentation and styling 
+
 - ex: `<h1>`element means it contains the "top level heading on your page"
+
 - Benefits of Semantic markup:
     - influence a website's SEO
     - helps screen readers pinpoint
