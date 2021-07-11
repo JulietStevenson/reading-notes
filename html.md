@@ -84,8 +84,8 @@
 
 > `<img src="images/firefox-icon.png" alt="My test image">`
 
-`src`: source attribute. The path to image file
-`alt`: alternative attribute. Specify descriptive text for users who cannot see the image
+`src`: **source attribute.** The path to image file
+`alt`: **alternative attribute.** Specify descriptive text for users who cannot see the image
 
 
 ### Marking up text
@@ -93,14 +93,13 @@
 **Headings:** allow you to speciffy certain parts of the content are headings 
 - Contains 6 heading levels. `<h1>-<h6>`
 
-**Paragraphs:** elements for containing paragraphs of text
-- `<p></p>`
+`<p></p>` **Paragraphs:** elements for containing paragraphs of text`<p></p>`
 
-**Lists:** 2 types of lists `<li>`
-- Ordered: order of items matters `<ol>`
-- Unordered:lists where order doesn't matter `<ul>`
+`<li>` **Lists:** 2 types of lists 
+- `<ol>` Ordered: order of items matters 
+- `<ul>`Unordered:lists where order doesn't matter 
 
-**Links:** contains an anchor `<a>` (what the linked text will appear to say)
+`<a>` **Links:** contains an anchor (what the linked text will appear to say)
 
 > `<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>`
 
