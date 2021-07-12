@@ -79,3 +79,5 @@ Css is a rule based language
     - HSLA value: `hsla(89, 43%, 51%, 0.6)`
 
 **Reset Stylesheet:** reduce browser inconsistencies such as line height, margins, and font sizes
+
+[HOME](README.md)
